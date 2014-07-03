@@ -1,0 +1,25 @@
+{
+  "name": "checksum-loader",
+  "version": "0.0.1",
+  "description": "A loader for webpack that provides the checksum of a file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naturalatlas/checksum-loader"
+  },
+  "keywords": [
+    "webpack",
+    "checksum",
+    "hash",
+    "loader"
+  ],
+  "author": "Brian Reavis",
+  "license": "Apache License v2.0",
+  "bugs": {
+    "url": "https://github.com/naturalatlas/checksum-loader/issues"
+  },
+  "homepage": "https://github.com/naturalatlas/checksum-loader"
+}
